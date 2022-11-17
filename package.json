@@ -1,0 +1,16 @@
+{
+  "name": "ship",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "compile:sass": "node-sass style.scss css/style.css",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  },
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0"
+  }
+}

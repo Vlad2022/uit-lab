@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+#movePirateShip {
+  background: #ffffff;
+  color: #121212;
+  top: 70%;
+  position: relative;
+  left: 45%; }
+  #movePirateShip:hover {
+    background: rgba(255, 255, 255, 0.7); }
+  #movePirateShip:active {
+    background: rgba(255, 255, 255, 0.5); }
